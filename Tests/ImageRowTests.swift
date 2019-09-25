@@ -10,6 +10,7 @@ import XCTest
 
 @testable import ImageRow
 import Eureka
+import UIKit
 
 class ImageRowTests: XCTestCase {
     
